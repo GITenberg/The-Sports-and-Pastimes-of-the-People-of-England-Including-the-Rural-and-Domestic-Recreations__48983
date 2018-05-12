@@ -1,16 +1,22 @@
 _repo: The-Sports-and-Pastimes-of-the-People-of-England-Including-the-Rural-and-Domestic-Recreations__48983
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Hone, William
       gutenberg_agent_id: '42795'
       url: http://www.gutenberg.org/2009/agents/42795
+covers:
+- cover_type: archival
+  image_path: 48983-h/images/cover.jpg
 creator:
   author:
     agent_name: Strutt, Joseph
     gutenberg_agent_id: '45078'
     url: http://www.gutenberg.org/2009/agents/45078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48983#The-Sports-and-Pastimes-of-the-People-of-England-Including-the-Rural-and-Domestic-Recreations_
 gutenberg_issued: '2015-05-17'
 gutenberg_type: Text
 identifiers:
